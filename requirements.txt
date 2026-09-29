@@ -6,3 +6,7 @@ scipy
 
 # tkinter is also imported, but is part of Python's standard library rather
 # than a pip dependency. On Linux/WSL, install the OS Tk package separately.
+
+# Streamlit dashboard (app.py) dependencies
+streamlit
+plotly
