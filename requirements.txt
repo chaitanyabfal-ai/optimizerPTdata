@@ -1,0 +1,8 @@
+# Core third-party dependencies used by gas_moc_smart_optimizer_v5 (1).py
+numpy
+pandas
+matplotlib
+scipy
+
+# tkinter is also imported, but is part of Python's standard library rather
+# than a pip dependency. On Linux/WSL, install the OS Tk package separately.
